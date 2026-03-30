@@ -1,7 +1,7 @@
 import pandas as pd
 
-Excel_sheet = "C:/Users/Fahima/Downloads/gpa.xlsx"
-Output_sheet = "C:/Users/Fahima/Downloads/GPA_Output.xlsx"
+Excel_sheet = "gpa_test_input.xlsx"
+Output_sheet = "GPA_Output.xlsx"
 
 def Calculating_Scholarly_gpa(Score):
     gpa = []
